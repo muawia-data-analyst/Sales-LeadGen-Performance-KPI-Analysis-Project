@@ -1,7 +1,7 @@
 # Sales & Lead Generation Performance, KPI Analysis Project
 
 ## Overview
-A comprehensive Business Analyst project analyzing lead generation performance for a sales operation, covering the full analytical lifecycle from raw data cleaning through KPI design to executive-ready reporting. Built using Microsoft Excel and Power BI.
+A comprehensive Business Analyst project analyzing lead generation performance for a sales operation, covering the full analytical lifecycle from raw data cleaning through KPI design to executive ready reporting. Built using Microsoft Excel and Power BI.
 
 ## Tools Used
 Microsoft Excel · Power BI · Power Query · DAX
